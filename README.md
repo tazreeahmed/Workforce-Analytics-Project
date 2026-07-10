@@ -368,5 +368,17 @@ This project demonstrates the ability to:
 
 ---
 
+HOW TO RUN:
+
+pip install pandas numpy scipy statsmodels scikit-learn matplotlib seaborn
+
+Then run each analytics module individually:
+
+python attrition_analytics.py
+python compensation_analytics.py
+python mobility_analytics.py
+python performance_analytics.py
+python recruitment_analytics.py
+
 
 
